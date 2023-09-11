@@ -19,7 +19,7 @@ const Header = () => (
         />
       </Link>
       <Popup
-        model
+        modal
         trigger={
           <button
             className="hamburger-icon-button"
